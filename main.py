@@ -16,6 +16,7 @@ def main():
         # source_code= elem.get_attribute('outerHTML')
         # print(source_code)
         # driver.close()
+        print("Test")
 
 main()
 
