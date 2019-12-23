@@ -5,7 +5,6 @@ def main():
     print('Hello World, lets start Coding')
     if __name__ == '__main__':
         print('Starting with Selenium')
-        print('Jo Tobi geht voll ab')
         # driver = webdriver.Chrome()
         # driver.get("http://www.google.de")
         # assert "Google" in driver.title
